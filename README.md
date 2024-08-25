@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning ...
-2019 ~ :  Division of Computer Science and Engineering, Kyonggi University
-2023 ~ : Information Security laboratory, Kyonggi University
+🌱 I’m currently learning ...
+- 2019 ~ :  Division of Computer Science and Engineering, Kyonggi University
+- 2023 ~ : Information Security laboratory, Kyonggi University
 
-- 📫 How to reach me: ...
-hyk708@naver.com
+📫 How to reach me: ...
+- hyk708@naver.com
 <!--
 **hyk708/hyk708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
